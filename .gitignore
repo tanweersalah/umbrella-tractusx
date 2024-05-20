@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+**/*.tgz
+Chart.lock
+*.iml
+target/
+**/values-local.yaml
+**/your-values.yaml
